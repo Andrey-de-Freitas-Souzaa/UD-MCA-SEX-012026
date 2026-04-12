@@ -1,0 +1,9 @@
+---
+Nome: Andrey de Freitas Souza
+RA: 8261105030
+Curso: Ciência da computação
+Semestre: 7°
+Bairro: Mooca
+Se trabalho: Trabalho como engenheiro de dados JR na empresa Bradesco
+Objetivo: Me especializar na carreira da dados, futuramente focar em ciência de dados
+---

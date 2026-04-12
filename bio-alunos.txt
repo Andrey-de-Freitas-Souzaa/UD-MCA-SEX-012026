@@ -7,3 +7,11 @@ Bairro: Mooca
 Se trabalho: Trabalho como engenheiro de dados JR na empresa Bradesco
 Objetivo: Me especializar na carreira da dados, futuramente focar em ciência de dados
 ---
+Nome: Juan Brito Grangeiro
+RA: 824158717
+Curso: Ciência da Computação
+Semestre: 5º
+Bairro: Mooca
+Se trabalho: Trabalho como Estagiário no Santander na área de Tecnologia, com foco em APIs e Desenvolvimento.
+Objetivo: Construir carreira como engenheiro de software, especializado em Desenvolvimentoe criptografia.
+---

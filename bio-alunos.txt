@@ -7,3 +7,11 @@ Bairro: Mooca
 Se trabalho: Trabalho como engenheiro de dados JR na empresa Bradesco
 Objetivo: Me especializar na carreira da dados, futuramente focar em ciência de dados
 ---
+
+Nome: Aran Monteiro Ramos
+RA: 825229222
+Curso: Ciência da computação
+Semestre: 5°
+Bairro: Mooca
+Se trabalho: Ainda não trabalho na area, mas desejo estar futuramente trabalhando com desenvolvimento.
+---

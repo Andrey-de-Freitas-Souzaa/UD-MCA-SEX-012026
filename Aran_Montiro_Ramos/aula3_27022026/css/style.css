@@ -1,0 +1,30 @@
+
+body {
+  background-color: #eaf2f8;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #1f618d;
+  color: #ffffff;
+  padding: 25px;
+  text-align: center;
+}
+
+a {
+  color: #e74c3c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c0392b;
+  text-decoration: underline;
+}
+
+.destaque {
+  background-color: #1655b3;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}

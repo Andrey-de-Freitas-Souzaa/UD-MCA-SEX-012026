@@ -31,3 +31,11 @@ Bairro: Mooca
 Se trabalho: Aprendiz Metro 
 Objetivo: Me tornar um criador de Jogos digitais e Youtuber de jogos 
 ---
+Nome: Igor Euripedes
+RA: 824117373
+Curso: ADS
+Semestre: 5º
+Bairro: Santana
+Se trabalha: Analista
+Objetivo: Desenvolvimento e programação de software
+---

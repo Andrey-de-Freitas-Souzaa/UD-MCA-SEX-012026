@@ -15,3 +15,11 @@ Bairro: Mooca
 Se trabalho: Trabalho como Estagiário no Santander na área de Tecnologia, com foco em APIs e Desenvolvimento.
 Objetivo: Construir carreira como engenheiro de software, especializado em Desenvolvimentoe criptografia.
 ---
+Nome: Gabriel Argoso dos Reis
+RA: 82413799
+Curso: Ciência da Computação
+Semestre: 5º
+Bairro: Mooca
+Se trabalho: Atualmente não, procurando emprego
+Objetivo: Me especializar em desenvolvimento de softwares e automação de processos, com alto foco em IA.
+---

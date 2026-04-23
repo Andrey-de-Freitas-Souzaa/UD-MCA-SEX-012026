@@ -39,3 +39,12 @@ Bairro: Santana
 Se trabalha: Analista
 Objetivo: Desenvolvimento e programação de software
 ---
+---
+Nome: Vinicis Barros
+RA: 825224255
+Curso: Engenharia de software
+Semestre: 2º
+Bairro: Sapopemba
+Se trabalha: Gestor comerciario | 
+Objetivo: ATUAR NA ÁREA DE TECNOLOGIA 
+---
